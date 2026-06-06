@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://entempsllc.github.io/sitemap.txt
+Sitemap: https://entempsllc.github.io/free-utility-tools/sitemap.txt
